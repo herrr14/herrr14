@@ -1,6 +1,7 @@
 ## Hey 👋, Heru Purnama!
 <a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
+<br/>
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
@@ -34,9 +35,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊 Github Stats
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/herrr14/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/herrr14/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/herrr14/github-stats-transparent/output/generated/languages.svg)
 </a>
 <br>
