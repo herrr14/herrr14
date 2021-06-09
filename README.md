@@ -37,7 +37,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <a href='https://github.com/herrr14/github-stats'>
   
-![Stats Overview](https://raw.githubusercontent.com/herrr14/github-stats/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/herrr14/github-stats/output/generated/languages.svg)
+![Stats Overview](https://github.com/herrr14/github-stats/blob/master/generated/overview.svg)
+![Most Used Languages](https://github.com/herrr14/github-stats/blob/master/generated/languages.svg)
 </a>
 <br>
