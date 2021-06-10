@@ -13,7 +13,6 @@ I am a versatilist and easily adapt to different hats (Front End web development
 - 🔭 &nbsp; I’m currently student on **Pakuan University**
 - 🌱 &nbsp; I’m currently learning react; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-(https://storyset.com/illustration/javascript-frameworks/amico)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
