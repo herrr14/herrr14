@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats (Front End web development
 - 🌱 &nbsp; I’m currently learning react; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/herrr14?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/heru-purnama-6954b9149/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1tGLEYni1dJcDeoaCi_mNzp8QTDkoY2aw/view?usp=sharing)
 - 📚 &nbsp; When I am free, I playing game apex legends or the forrest. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 <br>
 
