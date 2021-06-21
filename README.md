@@ -1,5 +1,4 @@
 ## Hey 👋, Heru Purnama!
-<a href=''><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 <br/>
 I am a versatilist and easily adapt to different hats (Front End web development 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -11,7 +10,7 @@ I am a versatilist and easily adapt to different hats (Front End web development
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently student on **Pakuan University**
-- 🌱 &nbsp; I’m currently learning react; 
+- 🌱 &nbsp; I’m currently learning deepen javascriptt; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/herrr14?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/heru-purnama-6954b9149/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1tGLEYni1dJcDeoaCi_mNzp8QTDkoY2aw/view?usp=sharing)
@@ -22,9 +21,7 @@ I am a versatilist and easily adapt to different hats (Front End web development
 ### 🔨 Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/python/python.svg"></a>
-<a href="https://orangedatamining.com/" target="_blank"><img align="left" alt="orange" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/orange/orange.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/react/react.svg"></a>
