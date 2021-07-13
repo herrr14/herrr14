@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats (Front End web development
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/herrr14?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/heru-purnama-6954b9149/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1tGLEYni1dJcDeoaCi_mNzp8QTDkoY2aw/view?usp=sharing)
-- 📚 &nbsp; When I am free, I design ui use figma and upload on behance and dribble. Checkout my [dribble](https://dribbble.com/herrr14)
+- 📚 &nbsp; When I am free, I design ui use figma and upload on dribble. Checkout my [dribble](https://dribbble.com/herrr14)
 <br>
 
 
