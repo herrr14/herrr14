@@ -1,7 +1,7 @@
 ## Hey 👋, Heru Purnama!
 
 <br/>
-I am a versatilist and easily adapt to different hats (Front End web development 🌐, App Developer 📱, Data Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Front End web development 🌐, App Developer 📱, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
@@ -10,7 +10,7 @@ I am a versatilist and easily adapt to different hats (Front End web development
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently student on **Pakuan University**
-- 🌱 &nbsp; I’m currently learning react 
+- 🌱 &nbsp; I’m currently learning react JS
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/herrr14?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/heru-purnama-6954b9149/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1tGLEYni1dJcDeoaCi_mNzp8QTDkoY2aw/view?usp=sharing)
