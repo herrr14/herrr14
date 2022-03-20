@@ -9,8 +9,8 @@ I am a versatilist and easily adapt to different hats (Front End web development
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently student on **Pakuan University**
-- 🌱 &nbsp; I’m currently learning react JS
+- 🔭 I’m currently student on **Pakuan University**
+- 🌱 I’m currently learning react JS
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/herrr14?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/heru-purnama-6954b9149/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1PwFZz9DzwFI1GtKLwqYTDq_5iH8hCk-C/view?usp=sharing)
