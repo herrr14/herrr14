@@ -20,20 +20,9 @@ I am a versatilist and easily adapt to different hats (Front End web development
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/android/android.svg"> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/react/react.svg"></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/herrr14/icons/master/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
-
-### 📊 Github Stats
-
-<a href='https://github.com/herrr14/github-stats'>
-  
-![Stats Overview](https://github.com/herrr14/github-stats/blob/master/generated/overview.svg)
-![Most Used Languages](https://github.com/herrr14/github-stats/blob/master/generated/languages.svg)
-</a>
 <br>
