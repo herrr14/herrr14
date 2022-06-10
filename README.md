@@ -13,7 +13,7 @@ I am a versatilist and easily adapt to different hats (Front End web development
 - 🌱 I’m currently learning react JS
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/herrr14?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/heru-purnama-6954b9149/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ESyp69zeYi5Znb9igabr4rhe2eVlWIW1/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/17cFD-sPEJGn0g1bbPGmHTRVkDhiaFdUM/view?usp=sharing)
 - 📚 &nbsp; When I am free, I design ui use figma and upload on dribble. Checkout my [dribble](https://dribbble.com/herrr14)
 <br>
 
